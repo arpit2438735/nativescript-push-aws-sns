@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112820180309",
+    "firebase_url": "https://dispatch-bot-poc.firebaseio.com",
+    "project_id": "dispatch-bot-poc",
+    "storage_bucket": "dispatch-bot-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112820180309:android:a50c334bb81e3bc6",
+        "android_client_info": {
+          "package_name": "org.nativescript.pushSNSPOC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112820180309-9llb4kql25nrjde1bj9kn7itn407ul7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBPHKcitPLrxxTkO1vM2hKpZHPkNVgXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
